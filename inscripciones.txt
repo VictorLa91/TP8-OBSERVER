@@ -1,0 +1,4 @@
+Hora y fecha de Inscripcion: 2024-05-26 13:22:33, Apellido : lAGOS, Nombre: Victor, Telefono: 2626-262626, Email: VDI@gmail.com, Concurso: Programacion
+
+Hora y fecha de Inscripcion: 2024-05-26 13:22:49, Apellido : lAGOS, Nombre: Victor, Telefono: 2626-262626, Email: VDI@gmail.com, Concurso: Programacion
+
